@@ -2,3 +2,4 @@ insta_args.txt
 .ipynb_c*
 data/*
 instagram-scraper.log
+models/*
