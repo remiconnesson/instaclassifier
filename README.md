@@ -36,7 +36,7 @@ https://github.com/rarcega/instagram-scraper
 ## A not so easy challenge
 ### Between the two dishes below, one is vegan the other is not. Can you tell which is which?*
 ![Two dishes, one vegan the other not, very hard to tell which is which.](https://github.com/remiconnesson/instaclassifier/blob/master/illustration1.png)
-*\nthe anwser at the bottom of the page*
+*\*the anwser at the bottom of the page*
 
 ## Starting small
 The first notebook is called Sample Dataset, the neural network is trained on a dataset of about 300 images.
@@ -62,5 +62,5 @@ Only prerequisite is to install conda env with Fastai librarie v1.
 *\* Answer : the one on the left is Thai Cicken Curry Soup (not vegan) and the one on the right is a Vegan Tofu Burrito.
 Credit to @thefeedfeed and @thefeedfeed.vegan*
 
-*Disclaimer: All images belongs to their respectful owner."
+Disclaimer: All images belongs to their respectful owner.
 
