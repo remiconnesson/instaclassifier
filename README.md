@@ -47,10 +47,11 @@ The second notebook is called Bigget Dataset, the neural network is trained on a
 
 ## Conclusion & Area of Improvement
 This is a toy project so I didn't dive too much into the data to check if everything is fine. 
-Some things that are worth keeping in minde:
+Some things that are worth keeping in mind:
 - Not-vegan accounts can feature vegan dishes as it is not mutually exclusive.
 - Though vegan accounts won't feature not-vegan dishes.
 - Both types of accounts feature images not related to food, e.g: Advertisements, People, Logo, Drinks etc...
+- I haven't thought of this before but a more fine-grained probleme would have been "Healthy but Not Vegan Dishes" vs "Vegan Dishes".
 
 ## Reproducibility
 Everything you need to run the notebooks are inside the notebook. 
