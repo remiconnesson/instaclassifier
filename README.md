@@ -8,6 +8,10 @@ French medium article for the github can be find here.
 
 ## Scraping data from Instagram
 
+I choose Instagram to scrape data because it contains a vast amount of pictures that are relatively similar and aspire to the same aesthetics standard.
+Close-up of dishes are easy to found and are usually sorted by category, for example: Vegan and Not Vegan.
+I decided to train a classifier to see if it would be able to tell the difference.
+
 ### Vegan Accounts
 - [https://www.instagram.com/buddha_bowls](@buddha_bowls)
 - [https://www.instagram.com/vegan_bowls](@vegan_bowls)
@@ -35,9 +39,28 @@ https://github.com/rarcega/instagram-scraper
 *\nthe anwser at the bottom of the page*
 
 ## Starting small
+The first notebook is called Sample Dataset, the neural network is trained on a dataset of about 300 images.
+The results were actually concluding and I wanted to see what happends if I added...
 
 ## More Data
+The second notebook is called Bigget Dataset, the neural network is trained on a dataset of about 21000 images.
+Results 
+
+## Conclusion & Area of Improvement
+This is a toy project so I didn't dive too much into the data to check if everything is fine. 
+Some things that are worth keeping in minde:
+- Not-vegan accounts can feature vegan dishes as it is not mutually exclusive.
+- Though vegan accounts won't feature not-vegan dishes.
+- Both types of accounts feature images not related to food, e.g: Advertisements, People, Logo, Drinks etc...
+
+## Reproducibility
+Everything you need to run the notebooks are inside the notebook. 
+Start by the one called "Sample Dataset" as it includes extra step for setting things up.
+
+Only prerequisite is to install conda env with Fastai librarie v1.
 
 *\* Answer : the one on the left is Thai Cicken Curry Soup (not vegan) and the one on the right is a Vegan Tofu Burrito.
 Credit to @thefeedfeed and @thefeedfeed.vegan*
+
+*Disclaimer: All images belongs to their respectful owner."
 
