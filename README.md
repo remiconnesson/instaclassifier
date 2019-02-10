@@ -1,5 +1,5 @@
 # Vegan vs. Not Vegan Classifier
-
+![Images from the dataset](https://github.com/remiconnesson/instaclassifier/blob/master/illustrations/illustration2.PNG)
 
 ## Goal
 To practice what I have learned during week 1 of Fast AI v3.
