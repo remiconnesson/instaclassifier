@@ -31,7 +31,7 @@ https://github.com/rarcega/instagram-scraper
 
 ## A not so easy challenge
 ### Between the two dishes below, one is vegan the other is not. Can you tell which is which?
-![Two dishes, one vegan the other not, very hard to tell which is which.](https:/remiconnesson/instaclassifier/illustraton1.png)
+![Two dishes, one vegan the other not, very hard to tell which is which.](https:/remiconnesson/instaclassifier/illustration1.png)
 
 
 ## Starting small
