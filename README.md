@@ -30,10 +30,14 @@ Thanks to @racerga for creating this tool.
 https://github.com/rarcega/instagram-scraper
 
 ## A not so easy challenge
-### Between the two dishes below, one is vegan the other is not. Can you tell which is which?
+### Between the two dishes below, one is vegan the other is not. Can you tell which is which?*
 ![Two dishes, one vegan the other not, very hard to tell which is which.](https://github.com/remiconnesson/instaclassifier/blob/master/illustration1.png)
-
+*\nthe anwser at the bottom of the page*
 
 ## Starting small
 
 ## More Data
+
+*\* Answer : the one on the left is Thai Cicken Curry Soup (not vegan) and the one on the right is a Vegan Tofu Burrito.
+Credit to @thefeedfeed and @thefeedfeed.vegan*
+
