@@ -44,7 +44,6 @@ The results were actually concluding and I wanted to see what happends if I adde
 
 ## More Data
 The second notebook is called Bigget Dataset, the neural network is trained on a dataset of about 21000 images.
-Results 
 
 ## Conclusion & Area of Improvement
 This is a toy project so I didn't dive too much into the data to check if everything is fine. 
