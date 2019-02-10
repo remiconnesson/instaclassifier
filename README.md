@@ -13,20 +13,20 @@ Close-up of dishes are easy to found and are usually sorted by category, for exa
 I decided to train a classifier to see if it would be able to tell the difference.
 
 ### Vegan Accounts
-- [https://www.instagram.com/buddha_bowls](@buddha_bowls)
-- [https://www.instagram.com/vegan_bowls](@vegan_bowls)
-- [https://www.instagram.com/vegansrecipe](@vegansrecipe)
-- [https://www.instagram.com/thevegansclub](@thevegansclub)
-- [https://www.instagram.com/thevegansclublifestyle](@thevegansclublifestyle)
-- [https://www.instagram.com/thefeedfeed.vegan](@thefeedfeed.vegan)
+- [@buddha_bowls](https://www.instagram.com/buddha_bowls)
+- [@vegan_bowls](https://www.instagram.com/vegan_bowls)
+- [@vegansrecipe](https://www.instagram.com/vegansrecipe)
+- [@thevegansclub](https://www.instagram.com/thevegansclub)
+- [@thevegansclublifestyle](https://www.instagram.com/thevegansclublifestyle)
+- [@thefeedfeed.vegan](https://www.instagram.com/thefeedfeed.vegan)
 
 ### Not Vegan Accounts
-- [https://www.instagram.com/burgersofthedays](@burgersofthedays)
-- [https://www.instagram.com/sushiporn](@sushiporn)
-- [https://www.instagram.com/foodgawker](@foodgawker)
-- [https://www.instagram.com/ks_ate_here](@ks_ate_here)
-- [https://www.instagram.com/thefeedfeed](@thefeedfeed)
-- [https://www.instagram.com/huttoneats](@huttoneats)
+- [@burgersofthedays](https://www.instagram.com/burgersofthedays)
+- [@sushiporn](https://www.instagram.com/sushiporn)
+- [@foodgawker](https://www.instagram.com/foodgawker)
+- [@ks_ate_here](https://www.instagram.com/ks_ate_here)
+- [@thefeedfeed](https://www.instagram.com/thefeedfeed)
+- [@huttoneats](https://www.instagram.com/huttoneats)
 
 
 ### Scraper
